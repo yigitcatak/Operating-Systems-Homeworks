@@ -1,0 +1,1 @@
+man grep | grep -A4 -e-A -m1 > output.txt
