@@ -1,0 +1,5 @@
+ls -a
+grep danger < input1.txt &
+grep clearly -i < input1.txt &
+man -f grep &
+wc cli.c > output1.txt
